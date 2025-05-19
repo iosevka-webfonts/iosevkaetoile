@@ -1,4 +1,4 @@
-# Iosevkaetoile WebFont 33.2.2
+# Iosevkaetoile WebFont 33.2.3
 
 ## How to use
 
